@@ -6,4 +6,8 @@ https://www.arduino.cc/en/Guide/LilyPadMacOSX
 tutorial of this Projec:
 https://www.instructables.com/id/Arduino-Python-Communication-via-USB/
 
+My environment:
+- system: mac OS X
+- arduino uno
+- python 3
 
